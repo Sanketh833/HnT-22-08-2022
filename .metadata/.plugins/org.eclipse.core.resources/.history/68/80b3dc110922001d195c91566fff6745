@@ -1,0 +1,5 @@
+package com.hnt.repository;
+
+public interface UserRepository {
+
+}
